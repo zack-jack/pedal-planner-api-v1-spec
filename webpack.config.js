@@ -40,6 +40,10 @@ module.exports = {
           from: 'node_modules/swagger-ui/dist/oauth2-redirect.html',
           to: './',
         },
+        {
+          from: './src/swagger.yaml',
+          to: './',
+        },
       ],
     }),
     new HtmlWebpackPlugin({
