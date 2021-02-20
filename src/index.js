@@ -9,7 +9,7 @@ const ui = SwaggerUI({
 });
 
 ui.initOAuth({
-  appName: 'Pedal Tetris API v1',
+  appName: 'Pedal Planner API v1',
   // See https://demo.identityserver.io/ for configuration details.
   clientId: 'implicit',
 });

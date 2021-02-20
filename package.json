@@ -1,7 +1,7 @@
 {
-  "name": "pedal-tetris-api-v1-spec",
+  "name": "pedal-planner-api-v1-spec",
   "version": "1.0.0",
-  "description": "Pedal Tetris API v1 Spec",
+  "description": "Pedal Planner API v1 Spec",
   "scripts": {
     "build": "webpack",
     "start": "webpack serve --open --port 3200"
